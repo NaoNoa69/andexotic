@@ -46,6 +46,11 @@ header img{
     padding: 0;
 }
 
+.modelos{
+    color: #fff;
+    text-align: center;
+}
+
 /*ACÁ INICIA EL FOOTER*/
 footer{
     background-color: #000;
