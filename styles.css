@@ -52,7 +52,7 @@ li a:hover{
 
 /*ACÁ INICIA EL CONTENIDO*/
 .bienvenida{
-    background-color: orangered;
+    background-image: url(imágenes/1.png);
     background-size: cover;
     color: #fff;
     text-align: center;
@@ -73,6 +73,7 @@ li a:hover{
     background-color: #fff;
     width: auto;
     height: 100%;
+    padding-bottom: 30px;
 }
 
 .ventana_suscripcion p{
@@ -87,6 +88,8 @@ li a:hover{
     width: 50%;
     border-radius: 50px;
     font-family: "Madimi One", sans-serif;
+    margin: auto;
+    display: block;
 }
 
 .caja_modelos{
@@ -102,6 +105,7 @@ li a:hover{
 }
 
 /*PÁGINA DE CONTACTO*/
+
 form{
     background-color: transparent;
     padding: 20px;
