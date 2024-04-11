@@ -101,14 +101,14 @@ li a:hover{
     justify-content: space-between;
 }
 
-/*ACÁ INICIA LA PÁGINA DE CONTACTO*/
+/*PÁGINA DE CONTACTO*/
 form{
     background-color: transparent;
-    padding: 20px 0;
-    max-width: 700px;
+    padding: 20px;
+    max-width: 600px;
     margin: auto;
     box-shadow: 0 0 40px #f00;
-    margin-top: 11%;
+    margin-top: 10%;
     margin-bottom: 12%;
 }
 
@@ -123,7 +123,7 @@ form{
 }
 
 .form_input{
-    padding: 5px 30px 25px 30px;
+    padding: 5px 30px 15px 30px;
 }
 
 input{
@@ -139,6 +139,12 @@ input{
 }
 
 .boton_contacto{
+    display: block;
+    background-color: #fff;
+    color: #000;
+    font-weight: 700;
+    width: 200px;
+    margin: auto;
 }
 
 
